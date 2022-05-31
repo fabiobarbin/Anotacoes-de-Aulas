@@ -2,30 +2,28 @@
 
 [Sintaxe Básica Markdown](http://www.markdownguide.org/basic-syntax)
 
-<a href="http://www.markdownguide.org/basic-syntax" target="_blank">Sintaxe Básica Markdown</a>
-
 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/2a5fad62b2f1f38098dd73991479dcae7b2e3324/README.md)
 
-[CODEWARS](www.codewars.com/)
+[CODEWARS](http://www.codewars.com/)
 
-[BEECROWD](www.beecrowd.com.br)
+[BEECROWD](http://www.beecrowd.com.br)
 
-[HACKEREARTH](www.hackerearth.com)
+[HACKEREARTH](http://www.hackerearth.com)
 
-[PROGRAMIZ](www.programiz.com)
+[PROGRAMIZ](http://www.programiz.com)
 
-[CODECHEF](www.codechef.com)
+[CODECHEF](http://www.codechef.com)
 
-[SPHERE ONLINE JUDGE](www.spoj.com/)
+[SPHERE ONLINE JUDGE](http://www.spoj.com/)
 
-[EXERCISM](www.exercism.org/)
+[EXERCISM](http://www.exercism.org/)
 
-[CODE CADEMY](www.codecademy.com)
+[CODE CADEMY](http://www.codecademy.com)
 
-[CODER BYTE](www.coderbyte.com/)
+[CODER BYTE](http://www.coderbyte.com/)
 
-[HACKERRANK](www.hackerrank.com)
+[HACKERRANK](http://www.hackerrank.com)
 
-[LEETCODE](www.leetcode.com/)
+[LEETCODE](http://www.leetcode.com/)
 
 

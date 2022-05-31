@@ -2,6 +2,8 @@
 
 [Sintaxe Básica Markdown](www.markdownguide.org/basic-syntax)
 
+[Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/2a5fad62b2f1f38098dd73991479dcae7b2e3324/README.md)
+
 [CODEWARS](www.codewars.com/)
 
 [BEECROWD](www.beecrowd.com.br)

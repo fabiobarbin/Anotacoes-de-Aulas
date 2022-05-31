@@ -1,9 +1,5 @@
 # Primeiros passos no GitHub/Git Bash
 
-### Links úteis
-[Sintaxe Básica Markdown](www.markdownguide.org/basic-syntax)
-
-
 ### Criando uma pasta
 
 - Utilize **mkdir** seguido do nome do diretório que se deseja criar.

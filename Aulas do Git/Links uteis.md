@@ -1,6 +1,6 @@
 # Links Gerais
 
-[Sintaxe Básica Markdown](www.markdownguide.org/basic-syntax)
+[Sintaxe Básica Markdown](http://www.markdownguide.org/basic-syntax)
 
 <a href="http://www.markdownguide.org/basic-syntax" target="_blank">Sintaxe Básica Markdown</a>
 
